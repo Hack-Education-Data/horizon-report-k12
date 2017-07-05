@@ -3,7 +3,22 @@ layout: default
 title: Horizon Report K-12
 ---
 
-<h2> Historical Data from the Horizon Report</h2>
+<h2>The 2016 Horizon Report</h2>
+
+<!-- Investors -->
+{% assign timelines = site.data.2016 %}
+{% assign timelines = timelines | sort:"Timeline" %}
+
+<!-- Document -->
+
+{% for timeline in timelines %}
+
+<p><strong><u>{{ timeline.Timeline }}</u></strong>: 
+
+<p>{{ timeline.Trend }}
+
+<hr >
+{% endfor %}
 
 
 
