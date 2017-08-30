@@ -13,9 +13,9 @@ title: 2012 Horizon Report K-12
 
 {% for timeline in timelines %}
 
-<p><strong>{{ timeline.Timeline }}</strong>: 
+<p><strong>{{ timeline.Timeline }}</strong>: </p>
 
-<p>{{ timeline.Trend }}
+<p>{{ timeline.Trend }} <img src=" {{ timeline.Image }}" height="42" width="42" align="right" style="margin:10px"></p>
 
 <hr >
 {% endfor %}
