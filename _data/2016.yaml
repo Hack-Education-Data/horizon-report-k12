@@ -1,12 +1,24 @@
 - Timeline: 1 Year or Less
   Trend: Makerspaces
+  Image: 'https://s3.amazonaws.com/hackedu/makerspace.png'
+  Notes: ''
 - Timeline: 1 Year or Less
   Trend: Online Learning
+  Image: 'https://s3.amazonaws.com/hackedu/horizon_onlineedu.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Robotics
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_robotics.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Virtual Reality
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_vr.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Artificial Intelligence
+  Image: 'https://s3.amazonaws.com/hackedu/horizon_ai.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Wearable Technology
+  Image: 'https://s3.amazonaws.com/hackedu/wearable_technology.png'
+  Notes: ''
