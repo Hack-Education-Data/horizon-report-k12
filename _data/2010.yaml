@@ -1,12 +1,24 @@
 - Timeline: 1 Year or Less
   Trend: Cloud Computing
+  Image: 'https://s3.amazonaws.com/hackedu/cloud_computing.png'
+  Notes: ''
 - Timeline: 1 Year or Less
   Trend: Collaborative Environments
+  Image: 'https://s3.amazonaws.com/hackedu/collaborative_enviro.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Mobiles
+  Image: 'https://s3.amazonaws.com/hackedu/byod.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Game-Based Learning
+  Image: 'https://s3.amazonaws.com/hackedu/game-based-learning.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Augmented Reality
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_vr.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Flexible Displays
+  Image: 'https://s3.amazonaws.com/hackedu/flexible_display.png'
+  Notes: ''
