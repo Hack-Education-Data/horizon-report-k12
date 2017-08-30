@@ -1,12 +1,24 @@
 - Timeline: 1 Year or Less
-  Trend: BYOD (Bring Your Own Device)
+  Trend: Bring Your Own Device
+  Image: 'https://s3.amazonaws.com/hackedu/byod.png'
+  Notes: ''
 - Timeline: 1 Year or Less
   Trend: Makerspaces
+  Image: 'https://s3.amazonaws.com/hackedu/makerspace.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: 3D Printing
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_3d_printing.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Adaptive Learning Technologies
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_analytics_adaptive.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Digital Badges
+  Image: 'https://s3.amazonaws.com/hackedu/badge.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Wearable Technology
+  Image: 'https://s3.amazonaws.com/hackedu/wearable_technology.png'
+  Notes: ''
