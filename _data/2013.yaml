@@ -1,12 +1,24 @@
 - Timeline: 1 Year or Less
   Trend: Cloud Computing
+  Image: 'https://s3.amazonaws.com/hackedu/cloud_computing.png'
+  Notes: ''
 - Timeline: 1 Year or Less
   Trend: Mobile Learning
+  Image: 'https://s3.amazonaws.com/hackedu/byod.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Learning Analytics
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_analytics_adaptive.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Open Content
+  Image: 'https://s3.amazonaws.com/hackedu/open_content.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: 3D Printing
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_3d_printing.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Virtual and Remote Laboratories
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_vr.png'
+  Notes: ''
